@@ -4,4 +4,4 @@
 ##  Desc:  Install Powershel Core
 ################################################################################
 
-choco install powershell-core --version 6.1.1 -y
+choco install powershell-core --version 6.1.2 -y
